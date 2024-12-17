@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "tipo": "CARGA",
+    "estado": "PENDIENTE",
+    "informacionPlanta": "Planta A - Sector Norte",
+    "matricula": "1234-ABC",
+    "empresa": "Logística Galicia S.A.",
+    "fecha": "2024-11-27",
+    "hora": "09:00-11:00"
+  },
+  {
+    "id": 2,
+    "tipo": "CARGA",
+    "estado": "EN CARGA",
+    "informacionPlanta": "Planta A - Sector Norte",
+    "matricula": "2345-BCD",
+    "empresa": "Transportes del Norte",
+    "fecha": "2024-11-27",
+    "hora": "11:30-13:30"
+  },
+  {
+    "id": 3,
+    "tipo": "DESCARGA",
+    "estado": "CERRADA",
+    "informacionPlanta": "Planta B - Sector Sur",
+    "matricula": "3456-CDE",
+    "empresa": "Logística Galicia S.A.",
+    "fecha": "2024-11-27",
+    "hora": "14:00-16:00"
+  },
+  {
+    "id": 4,
+    "tipo": "DESCARGA",
+    "estado": "PENDIENTE",
+    "informacionPlanta": "Planta B - Sector Sur",
+    "matricula": "4567-DEF",
+    "empresa": "Transportes del Norte",
+    "fecha": "2024-11-27",
+    "hora": "16:30-18:30"
+  },
+  {
+    "id": 5,
+    "tipo": "CARGA",
+    "estado": "CARGADA",
+    "informacionPlanta": "Planta A - Sector Este",
+    "matricula": "5678-EFG",
+    "empresa": "Transportes del Atlántico",
+    "fecha": "2024-11-28",
+    "hora": "08:00-10:00"
+  },
+  {
+    "id": 6,
+    "tipo": "DESCARGA",
+    "estado": "CERRADA",
+    "informacionPlanta": "Planta A - Sector Este",
+    "matricula": "6789-FGH",
+    "empresa": "Distribuciones Sureste",
+    "fecha": "2024-11-28",
+    "hora": "10:30-12:30"
+  },
+  {
+    "id": 7,
+    "tipo": "DESCARGA",
+    "estado": "EN CARGA",
+    "informacionPlanta": "Planta C - Zona Oeste",
+    "matricula": "7890-GHI",
+    "empresa": "Logística Galicia S.A.",
+    "fecha": "2024-11-28",
+    "hora": "13:00-15:00"
+  },
+  {
+    "id": 8,
+    "tipo": "CARGA",
+    "estado": "PENDIENTE",
+    "informacionPlanta": "Planta A - Sector Norte",
+    "matricula": "8901-HIJ",
+    "empresa": "Transportes del Norte",
+    "fecha": "2024-11-28",
+    "hora": "15:30-17:30"
+  },
+  {
+    "id": 9,
+    "tipo": "DESCARGA",
+    "estado": "CARGADA",
+    "informacionPlanta": "Planta D - Sector Central",
+    "matricula": "9012-IJK",
+    "empresa": "Distribuciones Sureste",
+    "fecha": "2024-11-29",
+    "hora": "08:00-10:00"
+  },
+  {
+    "id": 10,
+    "tipo": "CARGA",
+    "estado": "CERRADA",
+    "informacionPlanta": "Planta D - Sector Central",
+    "matricula": "0123-JKL",
+    "empresa": "Logística Galicia S.A.",
+    "fecha": "2024-11-29",
+    "hora": "10:30-12:30"
+  },
+  {
+    "id": 11,
+    "tipo": "DESCARGA",
+    "estado": "ANULADA",
+    "informacionPlanta": "Planta B - Sector Sur",
+    "matricula": "1234-ABC",
+    "empresa": "Transportes del Atlántico",
+    "fecha": "2024-11-29",
+    "hora": "13:00-15:00"
+  },
+  {
+    "id": 12,
+    "tipo": "CARGA",
+    "estado": "PENDIENTE",
+    "informacionPlanta": "Planta A - Sector Norte",
+    "matricula": "2345-BCD",
+    "empresa": "Distribuciones Sureste",
+    "fecha": "2024-11-30",
+    "hora": "08:30-10:30"
+  },
+  {
+    "id": 13,
+    "tipo": "CARGA",
+    "estado": "CERRADA",
+    "informacionPlanta": "Planta A - Sector Este",
+    "matricula": "5678-EFG",
+    "empresa": "Transportes del Norte",
+    "fecha": "2024-11-30",
+    "hora": "11:00-13:00"
+  },
+  {
+    "id": 14,
+    "tipo": "DESCARGA",
+    "estado": "EN CARGA",
+    "informacionPlanta": "Planta C - Zona Oeste",
+    "matricula": "6789-FGH",
+    "empresa": "Transportes del Atlántico",
+    "fecha": "2024-11-30",
+    "hora": "13:30-15:30"
+  },
+  {
+    "id": 15,
+    "tipo": "DESCARGA",
+    "estado": "EN CARGA",
+    "informacionPlanta": "Planta C - Zona Oeste",
+    "matricula": "6789-FGH",
+    "empresa": "Transportes del Atlántico",
+    "fecha": "2024-11-29",
+    "hora": "18:30-20:30"
+  }
+]
